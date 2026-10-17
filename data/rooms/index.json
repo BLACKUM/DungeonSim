@@ -1,0 +1,848 @@
+{
+  "1x1/admin-0": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.117129100Z",
+    "missRate": 0.0
+  },
+  "1x1/andesite-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:56:43.687201Z",
+    "missRate": 0.0
+  },
+  "1x1/arrow-trap-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T23:28:57.774646700Z",
+    "missRate": 0.0
+  },
+  "1x1/banners-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.210645400Z",
+    "missRate": 0.0
+  },
+  "1x1/basement-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-16T14:34:30.210831100Z",
+    "missRate": 0.0
+  },
+  "1x1/beams-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:51:53.689752400Z",
+    "missRate": 0.0
+  },
+  "1x1/big-red-flag-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.267849100Z",
+    "missRate": 0.0
+  },
+  "1x1/black-flag-3": {
+    "clean": false,
+    "capturedAt": "2026-10-14T05:40:36.910Z",
+    "missRate": 0.0,
+    "source": "dungeondata"
+  },
+  "1x1/blue-skulls-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.256145700Z",
+    "missRate": 0.0
+  },
+  "1x1/cage-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.287901600Z",
+    "missRate": 0.0
+  },
+  "1x1/cages-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:30.423232200Z",
+    "missRate": 2.6605651040280954E-5
+  },
+  "1x1/carpets-1": {
+    "clean": true,
+    "capturedAt": "2026-10-15T17:16:00.010Z",
+    "missRate": 0.0,
+    "source": "blackaddons"
+  },
+  "1x1/cell-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T17:41:53.893380600Z",
+    "missRate": 0.0
+  },
+  "1x1/chains-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.323245Z",
+    "missRate": 0.0
+  },
+  "1x1/cobble-wall-pillar-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-16T16:48:37.487843200Z",
+    "missRate": 0.002327367514604231
+  },
+  "1x1/crypts-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-16T02:27:05.581080900Z",
+    "missRate": 0.0
+  },
+  "1x1/dip-2": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T16:11:44.963731900Z",
+    "missRate": 0.0
+  },
+  "1x1/dome-2": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T17:48:23.477533800Z",
+    "missRate": 0.0
+  },
+  "1x1/double-diamond-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.248090100Z",
+    "missRate": 0.0
+  },
+  "1x1/double-stair-3": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T16:21:33.481297300Z",
+    "missRate": 6.603493247928155E-5
+  },
+  "1x1/drop-2": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:04:57.386882800Z",
+    "missRate": 0.0
+  },
+  "1x1/dueces-3": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:16:21.421175700Z",
+    "missRate": 0.0
+  },
+  "1x1/duncan-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T21:05:58.244393500Z",
+    "missRate": 0.0
+  },
+  "1x1/end-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:19:35.988469200Z",
+    "missRate": 0.0
+  },
+  "1x1/four-banner-1": {
+    "clean": false,
+    "capturedAt": "2026-10-14T05:41:01.805Z",
+    "missRate": 0.0,
+    "source": "dungeondata"
+  },
+  "1x1/golden-oasis-1": {
+    "clean": true,
+    "capturedAt": "2026-10-15T17:16:00.021Z",
+    "missRate": 0.0,
+    "source": "blackaddons"
+  },
+  "1x1/granite-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T06:00:03.797498100Z",
+    "missRate": 0.0
+  },
+  "1x1/hall-0": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.171944600Z",
+    "missRate": 3.334778403975056E-4
+  },
+  "1x1/hanging-vines-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.399810700Z",
+    "missRate": 0.0
+  },
+  "1x1/jumping-skulls-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:13:24.726152Z",
+    "missRate": 0.0
+  },
+  "1x1/knight-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-17T20:58:19.284648600Z",
+    "missRate": 0.0
+  },
+  "1x1/lava-pool-3": {
+    "clean": true,
+    "capturedAt": "2026-10-15T17:16:00.031Z",
+    "missRate": 0.0,
+    "source": "blackaddons"
+  },
+  "1x1/lava-skull-3": {
+    "clean": true,
+    "capturedAt": "2026-10-15T17:16:00.040Z",
+    "missRate": 0.0,
+    "source": "blackaddons"
+  },
+  "1x1/lava-skulls-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-15T20:47:51.254488400Z",
+    "missRate": 0.0
+  },
+  "1x1/leaves-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T17:41:53.889348800Z",
+    "missRate": 0.0
+  },
+  "1x1/locked-away-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T16:05:15.867765900Z",
+    "missRate": 0.0
+  },
+  "1x1/logs-4": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-16T22:21:42.019518600Z",
+    "missRate": 0.0
+  },
+  "1x1/long-hall-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:19:36.028468800Z",
+    "missRate": 0.0
+  },
+  "1x1/lots-of-floors-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.312755300Z",
+    "missRate": 0.0
+  },
+  "1x1/mini-rail-track-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-17T20:58:19.309433300Z",
+    "missRate": 0.0
+  },
+  "1x1/mirror-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:19.187320100Z",
+    "missRate": 0.0
+  },
+  "1x1/multicolored-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-17T22:45:11.570524900Z",
+    "missRate": 0.0
+  },
+  "1x1/mural-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:53:13.119237500Z",
+    "missRate": 0.0
+  },
+  "1x1/mushroom-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:02:13.864017900Z",
+    "missRate": 0.0
+  },
+  "1x1/overgrown-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.329770200Z",
+    "missRate": 1.0257462303826033E-4
+  },
+  "1x1/overgrown-chains-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:19:35.983453100Z",
+    "missRate": 0.0
+  },
+  "1x1/painting-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:53.802018600Z",
+    "missRate": 0.0
+  },
+  "1x1/perch-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:51:53.635946600Z",
+    "missRate": 2.7664047803474603E-5
+  },
+  "1x1/pillars-1": {
+    "clean": true,
+    "capturedAt": "2026-10-15T17:16:00.068Z",
+    "missRate": 0.0,
+    "source": "blackaddons"
+  },
+  "1x1/prison-cell-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.250649700Z",
+    "missRate": 0.0
+  },
+  "1x1/quad-lava-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.372358300Z",
+    "missRate": 0.0
+  },
+  "1x1/raccoon-4": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T21:10:19.359070800Z",
+    "missRate": 0.0
+  },
+  "1x1/red-green-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T06:00:03.779877800Z",
+    "missRate": 7.303146992431284E-4
+  },
+  "1x1/redstone-key-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.138399200Z",
+    "missRate": 0.0
+  },
+  "1x1/redstone-skull-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.386529800Z",
+    "missRate": 0.0
+  },
+  "1x1/sand-dragon-1": {
+    "clean": true,
+    "capturedAt": "2026-10-15T17:16:00.082Z",
+    "missRate": 0.0,
+    "source": "blackaddons"
+  },
+  "1x1/sarcophagus-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:19:35.993478700Z",
+    "missRate": 1.2278978388998034E-4
+  },
+  "1x1/scaffolding-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:19.203398900Z",
+    "missRate": 0.0
+  },
+  "1x1/silvers-sword-1": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-16T22:18:47.265027600Z",
+    "missRate": 0.0
+  },
+  "1x1/slabs-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.305469900Z",
+    "missRate": 0.0
+  },
+  "1x1/sloth-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:16:35.794847500Z",
+    "missRate": 0.0
+  },
+  "1x1/small-stairs-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T06:00:52.114600600Z",
+    "missRate": 0.0
+  },
+  "1x1/spikes-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T06:00:03.792469600Z",
+    "missRate": 0.0
+  },
+  "1x1/steps-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:30:48.243359400Z",
+    "missRate": 0.0
+  },
+  "1x1/temple-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:30.448278200Z",
+    "missRate": 0.0
+  },
+  "1x1/tomioka-0": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:51:53.630450500Z",
+    "missRate": 0.0
+  },
+  "1x1/trinity-4": {
+    "clean": true,
+    "capturedAt": "2026-10-15T17:16:00.105Z",
+    "missRate": 0.0,
+    "source": "blackaddons"
+  },
+  "1x1/water-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.166605900Z",
+    "missRate": 0.0
+  },
+  "1x1/waterfall-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:59:16.817075500Z",
+    "missRate": 0.0
+  },
+  "1x1/zodd-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T06:00:03.786397Z",
+    "missRate": 0.0
+  },
+  "1x2/archway-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:37.082604100Z",
+    "missRate": 8.585796639273887E-4
+  },
+  "1x2/balcony-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:30:48.277814100Z",
+    "missRate": 5.046058706061712E-4
+  },
+  "1x2/bridges-6": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.298211800Z",
+    "missRate": 4.589840388300497E-4
+  },
+  "1x2/crypt-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.109891600Z",
+    "missRate": 0.0012105028927458833
+  },
+  "1x2/doors-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.300946500Z",
+    "missRate": 3.95889632855397E-4
+  },
+  "1x2/gold-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:30:48.311051800Z",
+    "missRate": 0.0
+  },
+  "1x2/grand-library-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:51:53.645950300Z",
+    "missRate": 0.0012670371241877388
+  },
+  "1x2/grass-ruin-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:56:43.683172300Z",
+    "missRate": 2.5409731927328164E-4
+  },
+  "1x2/mage-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:53:13.128347200Z",
+    "missRate": 2.575096244222128E-4
+  },
+  "1x2/pedestal-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.434760700Z",
+    "missRate": 0.001274606996176179
+  },
+  "1x2/pressure-plates-6": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:19:36.004148400Z",
+    "missRate": 5.500394900146677E-4
+  },
+  "1x2/purple-flags-5": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:04:57.379374100Z",
+    "missRate": 9.994752754803727E-5
+  },
+  "1x2/redstone-warrior-3": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:16:21.417132Z",
+    "missRate": 2.268795553160716E-4
+  },
+  "1x2/skull-2": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.100402500Z",
+    "missRate": 4.5519721419304916E-4
+  },
+  "1x3/catwalk-6": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T16:59:21.304722300Z",
+    "missRate": 2.4108003857280618E-4
+  },
+  "1x3/deathmite-6": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:19.199357200Z",
+    "missRate": 4.7484567515557446E-4
+  },
+  "1x3/diagonal-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.236148200Z",
+    "missRate": 1.859219871341985E-4
+  },
+  "1x3/gravel-6": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:53:13.151749400Z",
+    "missRate": 0.0
+  },
+  "1x3/red-blue-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:56:22.870404500Z",
+    "missRate": 0.0
+  },
+  "1x3/slime-5": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T16:59:21.287043500Z",
+    "missRate": 1.9786797259528578E-4
+  },
+  "1x3/wizard-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:49:06.231495300Z",
+    "missRate": 3.4923349269620296E-4
+  },
+  "1x4/hallway-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:53:13.139439900Z",
+    "missRate": 0.0
+  },
+  "1x4/mossy-4": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T16:18:53.997819700Z",
+    "missRate": 1.3360231933626368E-4
+  },
+  "1x4/pit-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:30.436635600Z",
+    "missRate": 6.258630452707603E-4
+  },
+  "1x4/quartz-knight-7": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:19:36.023459300Z",
+    "missRate": 2.200583154535952E-4
+  },
+  "1x4/sewer-7": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:51:53.625945300Z",
+    "missRate": 4.6490525454963E-4
+  },
+  "1x4/waterfall-8": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:16:35.828593500Z",
+    "missRate": 3.4034261156230605E-4
+  },
+  "2x2/atlas-6": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:11:14.759906400Z",
+    "missRate": 3.381371348964286E-4
+  },
+  "2x2/buttons-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-17T20:58:19.303620500Z",
+    "missRate": 1.486458364301216E-4
+  },
+  "2x2/cathedral-8": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T16:21:33.493002400Z",
+    "missRate": 8.14457526040017E-4
+  },
+  "2x2/flags-7": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:30:48.297003Z",
+    "missRate": 1.5827793605571383E-4
+  },
+  "2x2/mithril-cave-10": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T06:00:03.838969800Z",
+    "missRate": 0.0032250715814017895
+  },
+  "2x2/museum-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.160527800Z",
+    "missRate": 2.843275982913895E-4
+  },
+  "2x2/rail-track-9": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:37.072603600Z",
+    "missRate": 1.761996767647309E-4
+  },
+  "2x2/stairs-4": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T16:05:15.860751800Z",
+    "missRate": 0.0
+  },
+  "2x2/super-tall-6": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:53.789918600Z",
+    "missRate": 4.8852712828722385E-5
+  },
+  "l-shape/altar-6": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:02:13.860993200Z",
+    "missRate": 7.331887536562965E-4
+  },
+  "l-shape/chambers-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:16:35.768825200Z",
+    "missRate": 6.165906938847416E-4
+  },
+  "l-shape/dino-dig-site-4": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T16:18:54.022256700Z",
+    "missRate": 2.9810440668455294E-4
+  },
+  "l-shape/draw-bridge-6": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.424671200Z",
+    "missRate": 7.325906062532828E-4
+  },
+  "l-shape/lava-ravine-6": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:51:53.599448600Z",
+    "missRate": 3.995557481850688E-4
+  },
+  "l-shape/layers-8": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T16:59:21.322294800Z",
+    "missRate": 0.002445082667080649
+  },
+  "l-shape/market-5": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:21:19.134291100Z",
+    "missRate": 6.961606738835323E-4
+  },
+  "l-shape/melon-7": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:53.754579500Z",
+    "missRate": 0.0
+  },
+  "l-shape/spider-9": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:30:48.266823100Z",
+    "missRate": 2.3683941007783695E-4
+  },
+  "l-shape/well-7": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:56:22.889491400Z",
+    "missRate": 2.6625643453050113E-4
+  },
+  "l-shape/withermancers-4": {
+    "clean": true,
+    "floor": "M4",
+    "capturedAt": "2026-10-16T02:41:32.811189100Z",
+    "missRate": 4.4362358991073206E-4
+  },
+  "miniboss/arches-0": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.307727700Z",
+    "missRate": 0.0
+  },
+  "miniboss/corridor-0": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T17:04:57.382863700Z",
+    "missRate": 0.0
+  },
+  "miniboss/dragon-skull-0": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:59:16.821095500Z",
+    "missRate": 0.0
+  },
+  "miniboss/midas-0": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.380346600Z",
+    "missRate": 0.0017651276959567543
+  },
+  "miniboss/ritual-0": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.272841200Z",
+    "missRate": 0.0
+  },
+  "puzzle/blaze-room-1-high": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:51:36.469313200Z",
+    "missRate": 0.0
+  },
+  "puzzle/blaze-room-1-low": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:16:35.789829400Z",
+    "missRate": 0.0
+  },
+  "puzzle/boxes-room": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:30.442107200Z",
+    "missRate": 0.0
+  },
+  "puzzle/creeper-room": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:52:30.418258300Z",
+    "missRate": 0.0
+  },
+  "puzzle/ice-path": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:19:35.977532400Z",
+    "missRate": 1.773615692951651E-4
+  },
+  "puzzle/ice-silverfish-room": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:49:06.234504400Z",
+    "missRate": 0.0
+  },
+  "puzzle/teleport-pad-room": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:56:43.670648400Z",
+    "missRate": 0.0
+  },
+  "puzzle/three-chests": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:01.268717600Z",
+    "missRate": 0.0
+  },
+  "puzzle/tic-tac-toe-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.255619300Z",
+    "missRate": 0.0
+  },
+  "puzzle/trivia-room": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T16:30:48.303535100Z",
+    "missRate": 0.0
+  },
+  "puzzle/water-puzzle#layout-1": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.439940200Z",
+    "missRate": 0.012962478565408202
+  },
+  "puzzle/water-puzzle#layout-2": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-15T17:45:39.484413400Z",
+    "missRate": 0.011900258954290203
+  },
+  "puzzle/water-puzzle#layout-3": {
+    "clean": true,
+    "floor": "M3",
+    "capturedAt": "2026-10-14T16:59:21.268831400Z",
+    "missRate": 0.003898007033997655
+  },
+  "puzzle/water-puzzle#layout-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T05:10:44.393516300Z",
+    "missRate": 0.0
+  },
+  "special/blood": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:49:06.218279700Z",
+    "missRate": 1.0
+  },
+  "special/entrance": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:53.793421600Z",
+    "missRate": 1.0
+  },
+  "special/fairy": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:49:06.215682Z",
+    "missRate": 1.0
+  },
+  "trap/trap-hard-4": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:47:22.279875600Z",
+    "missRate": 0.0
+  },
+  "trap/trap-very-hard-3": {
+    "clean": true,
+    "floor": "F7",
+    "capturedAt": "2026-10-14T04:37:53.797904700Z",
+    "missRate": 0.0
+  }
+}

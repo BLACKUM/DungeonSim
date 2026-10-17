@@ -1,0 +1,31 @@
+{
+ "room": "arches-0",
+ "name": "Arches",
+ "shape": "miniboss",
+ "facing": "SW",
+ "recordedAt": "2026-10-17T21:04:40.315358700Z",
+ "sessions": 1,
+ "mobs": [
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    14.5,
+    70,
+    5.5
+   ],
+   "yaw": 90,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NzU0NzAzOTQwMzEsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0OGM3ODM0NThlNGNmODUxOGU4YWI1ODYzZmJjNGNiOTQ4ZjkwNTY4ZWViOWE2MGQxNmM0ZmRlMmI5NmMwMzMifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"DIAMOND_SWORD\"},\"minecraft:custom_name\":{color:\"green\",italic:0b,text:\"Diamond Sword\"},\"minecraft:enchantment_glint_override\":1b,\"minecraft:tooltip_style\":\"hypixel_skyblock:uncommon\"},count:1,id:\"minecraft:diamond_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"PERFECT_BOOTS_6\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Perfect Boots - Tier VI\"},\"minecraft:enchantment_glint_override\":1b,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:diamond_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"PERFECT_LEGGINGS_6\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Perfect Leggings - Tier VI\"},\"minecraft:enchantment_glint_override\":1b,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:diamond_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"PERFECT_CHESTPLATE_6\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Perfect Chestplate - Tier VI\"},\"minecraft:enchantment_glint_override\":1b,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:diamond_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"PERFECT_HELMET_6\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Perfect Helmet - Tier VI\"},\"minecraft:enchantment_glint_override\":1b,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:diamond_helmet\"}"
+   },
+   "playerDistance": 52.69
+  }
+ ],
+ "keys": []
+}

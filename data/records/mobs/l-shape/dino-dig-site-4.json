@@ -1,0 +1,206 @@
+{
+ "room": "dino-dig-site-4",
+ "name": "Dino Dig Site",
+ "shape": "l-shape",
+ "facing": "NE",
+ "recordedAt": "2026-10-17T20:58:17.460328200Z",
+ "sessions": 1,
+ "mobs": [
+  {
+   "type": "minecraft:enderman",
+   "name": "§c§lFels",
+   "pos": [
+    22.5,
+    48,
+    47.5
+   ],
+   "yaw": -90,
+   "invisible": true,
+   "playerDistance": 59.93
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    21.5,
+    48,
+    47.5
+   ],
+   "yaw": -90,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:fishing_rod\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "playerDistance": 59.31
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    21.5,
+    48,
+    49.5
+   ],
+   "yaw": -90,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:fishing_rod\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "playerDistance": 57.91
+  },
+  {
+   "type": "minecraft:wither_skeleton",
+   "name": "§8§f§5 §2Healing Withermancer§r §a2.3M§c❤",
+   "pos": [
+    11,
+    69,
+    56.38
+   ],
+   "yaw": -102.65625,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{count:1,id:\"minecraft:stone_sword\"}"
+   },
+   "playerDistance": 42.11
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    19.59,
+    60,
+    36.53
+   ],
+   "yaw": -104.0625,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:fishing_rod\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "playerDistance": 60.53
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§c§lFels",
+   "pos": [
+    22.25,
+    61,
+    36.44
+   ],
+   "yaw": -78.75,
+   "invisible": false,
+   "playerDistance": 62.25
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    19.75,
+    61,
+    31.16
+   ],
+   "yaw": -57.65625,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "playerDistance": 66.67
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    20,
+    60,
+    35.38
+   ],
+   "yaw": -16.875,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:fishing_rod\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "playerDistance": 64.24
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§c§lFels",
+   "pos": [
+    31.5,
+    49,
+    41.5
+   ],
+   "yaw": -90,
+   "invisible": true,
+   "playerDistance": 58.97
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    34.53,
+    85.06,
+    47.91
+   ],
+   "yaw": 142.03125,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "playerDistance": 56.97
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    57.22,
+    82,
+    41.13
+   ],
+   "yaw": -75.9375,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "playerDistance": 59.04
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    14.69,
+    60,
+    24.5
+   ],
+   "yaw": -90,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "playerDistance": 53.54
+  }
+ ],
+ "keys": []
+}

@@ -1,0 +1,6 @@
+name: DungeonSim
+version: '${version}'
+main: dev.pawfect.dungeonsim.DungeonSimPlugin
+api-version: '26.2'
+description: Private dungeon room practice server
+author: pawliciously

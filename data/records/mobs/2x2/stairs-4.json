@@ -1,0 +1,1250 @@
+{
+ "room": "stairs-4",
+ "name": "Stairs",
+ "shape": "2x2",
+ "facing": "NW",
+ "recordedAt": "2026-10-17T20:58:17.455280800Z",
+ "sessions": 1,
+ "mobs": [
+  {
+   "type": "minecraft:enderman",
+   "name": "§5 §cFels§r §a2.2M§c❤",
+   "pos": [
+    56.5,
+    79,
+    32.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 52.24
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §cCrypt Souleater§r §a1.2M§c❤",
+   "pos": [
+    32.5,
+    79,
+    32.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{count:1,id:\"minecraft:diamond_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 53.92
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §5Zombie Knight§r §d7.7M§c❤",
+   "pos": [
+    50.5,
+    70,
+    21.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 61.65
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2 §cZombie Soldier§r §a1.8M§c❤",
+   "pos": [
+    34.5,
+    69,
+    30.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 54.35
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cZombie Soldier§r §a1.8M§c❤",
+   "pos": [
+    35.5,
+    69,
+    30.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CUTLASS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Zombie Soldier Cutlass\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass\",\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:iron_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Boots\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Leggings\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Chestplate\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Helmet\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 54.11
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §cSniper§r §a500k§c❤",
+   "pos": [
+    58.5,
+    79,
+    41.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SNIPER_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Sniper Helmet\"},\"minecraft:profile\":{id:[I;39333946,-325634553,-1927407233,166981343],properties:[{name:\"textures\",signature:\"P1xXKP4k3wnzXUReGkHfVU3VrUjlo60DJ/54xrzoAzho1IBGMOWTlx2R92rDF4oKe8YtyhWHs3fKJYbvuFodKjr+VB4Zz/edj85H77AW6hcXHlBSTE2/ZOtIyRysFaSjKuu4v3UQ/uzOX38XNeab8L0xXpuNvKoRksF+8I83Dsxey59G4Q9duCWmD+mPt9f+RxfcMBj7F0RuP9ifFuKTR9LpgtpqT6xG2KsyHGY20w/biRl2MACJPVCvsdD7XIxmsDHiN8wjIIwLGMCa+mtkDW9KLgxNbr6e6HWwKYNo1RMmOYRxTG/TK1Kx34BpnH9D8nJPpk7AdTPgdonAfEL49eZ5JUwD2gzXCitew3M+oVuUnscAh8OvrgzNtcbnHIkKjC+XKMgQS4EJgr+m/1oD7LzzPjWLJfbxQA470SxHeLZlVdZLBD4LgEdhBePJHC4MgYGxs1PiNg9HDPhM7/ZJy8wUNGIhuCrYmN25jHv6KHQbRDDlIEGYhgE7AmqvjP4nLuVSrgkGHi+W3TPPWb52KvG67CYpU+ari+bTNwrwKqftKSxeKfBvDUbbwRnjVJR3g3ZZMNGJUcu/eN8tnxxxlmsjgIT4ezWM6ZLQtvlzb3FTkm27Ub0lMFkq57kaAnLMgJgBYpUAy6mBPTHlQ1nqZBzXVpnILF8pBEq3CUDJXSI=\",value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE5NzA4NSwKICAicHJvZmlsZUlkIiA6ICI5ODY5ZmUyY2FjMjA0YmJmYjc1Y2Y1Mjk2ZTY0MDQ5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW5yaXF1ZTkzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxOGMwNzFmMDgwZGJhNTBhNjJhNjI2M2ZmNzI0ZWRjMTU3Y2U0ZmI0ODgzY2NlZmYyNDkxZDViYmRlODMwYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:player_head\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 44
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §6✯ §cSkeleton Master§r §a1.4M§c❤",
+   "pos": [
+    5.5,
+    84,
+    52.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "starred": true,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 54.64
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2§6 §2Healthy Crypt Lurker§r §a672k§c❤",
+   "pos": [
+    30.5,
+    71,
+    53.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bone\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 34.55
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§6 §2Healthy Crypt Lurker§r §a672k§c❤",
+   "pos": [
+    30.5,
+    71,
+    53.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 34.55
+  },
+  {
+   "type": "minecraft:wither_skeleton",
+   "name": "§2§6 §3Speedy Crypt Lurker§r §b420k§c❤",
+   "pos": [
+    56.5,
+    79,
+    49.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{count:1,id:\"minecraft:stone_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 36.02
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §1Stormy Super Tank Zombie§r §9135k§c❤",
+   "pos": [
+    35.5,
+    69,
+    35.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/earth_shard\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:stone_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 49.26
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§5 §6Flaming Fels§r §e1.5M§c❤",
+   "pos": [
+    29.5,
+    90,
+    48.5
+   ],
+   "yaw": 0,
+   "invisible": true,
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 44.59
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2 §cSuper Tank Zombie§r §a135k§c❤",
+   "pos": [
+    25.5,
+    69,
+    28.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 59.13
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cZombie Knight§r §a1.3M§c❤",
+   "pos": [
+    32.5,
+    90,
+    55.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 38.07
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §2Healthy Super Archer§r §a3.8M§c❤",
+   "pos": [
+    10.5,
+    69,
+    47.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 51.86
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §cCrypt Souleater§r §a1.2M§c❤",
+   "pos": [
+    9.5,
+    69,
+    49.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 51.26
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cSuper Tank Zombie§r §a135k§c❤",
+   "pos": [
+    7.5,
+    79,
+    32.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/earth_shard\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:stone_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 65.71
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §cCrypt Dreadlord§r §a1.3M§c❤",
+   "pos": [
+    9.5,
+    79,
+    33.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 63.71
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cSuper Tank Zombie§r §a135k§c❤",
+   "pos": [
+    27.5,
+    69,
+    30.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/earth_shard\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:stone_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 56.53
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2 §cZombie Commander§r §a5.2M§c❤",
+   "pos": [
+    7.5,
+    79,
+    28.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:fishing_rod\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 68.83
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §2Healthy Super Archer§r §a2.6M§c❤",
+   "pos": [
+    26.5,
+    90,
+    54.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 41.59
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §2Healing Super Archer§r §a1.6M§c❤",
+   "pos": [
+    29.5,
+    90,
+    54.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 40.11
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cZombie Soldier§r §a1.8M§c❤",
+   "pos": [
+    10.5,
+    79,
+    28.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CUTLASS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Zombie Soldier Cutlass\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass\",\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:iron_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Boots\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Leggings\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Chestplate\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Helmet\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 67.1
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§5 §8Fortified Fels§r §71.5M§c❤",
+   "pos": [
+    37.5,
+    81,
+    55.5
+   ],
+   "yaw": 0,
+   "invisible": true,
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 31.94
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 Healing Zombie Knight§r §a1.9M§c❤",
+   "pos": [
+    32.5,
+    69,
+    14.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 70.37
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §8Fortified Crypt Souleater§r §71.2M§c❤",
+   "pos": [
+    18.5,
+    71,
+    26.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 63.95
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 Healthy Zombie Knight§r §a3.1M§c❤",
+   "pos": [
+    16.5,
+    70,
+    15.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 74.67
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §cSkeleton Master§r §a1.4M§c❤",
+   "pos": [
+    14.5,
+    69,
+    49.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 47.59
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §8Fortified Crypt Dreadlord§r §7840k§c❤",
+   "pos": [
+    29.5,
+    71,
+    50.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 37.64
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §3Speedy Super Tank Zombie§r §b135k§c❤",
+   "pos": [
+    29.5,
+    79,
+    10.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/earth_shard\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:stone_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 75.63
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §3Speedy Crypt Dreadlord§r §b840k§c❤",
+   "pos": [
+    35.5,
+    81,
+    54.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 33.52
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cZombie Knight§r §a1.3M§c❤",
+   "pos": [
+    31.5,
+    71,
+    49.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 37.58
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§2§8§6 §2Healthy Crypt Souleater§r §a1.3M§c❤",
+   "pos": [
+    33.5,
+    71,
+    53.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 33.11
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §8Fortified Super Tank Zombie§r §7135k§c❤",
+   "pos": [
+    33.5,
+    69,
+    37.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/earth_shard\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:stone_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":5263440,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":0,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":0,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 47.91
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §8Fortified Crypt Souleater§r §71.2M§c❤",
+   "pos": [
+    18.5,
+    71,
+    27.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 63.07
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §cSniper§r §a500k§c❤",
+   "pos": [
+    54.5,
+    79,
+    43.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SNIPER_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Sniper Helmet\"},\"minecraft:profile\":{id:[I;39333946,-325634553,-1927407233,166981343],properties:[{name:\"textures\",signature:\"P1xXKP4k3wnzXUReGkHfVU3VrUjlo60DJ/54xrzoAzho1IBGMOWTlx2R92rDF4oKe8YtyhWHs3fKJYbvuFodKjr+VB4Zz/edj85H77AW6hcXHlBSTE2/ZOtIyRysFaSjKuu4v3UQ/uzOX38XNeab8L0xXpuNvKoRksF+8I83Dsxey59G4Q9duCWmD+mPt9f+RxfcMBj7F0RuP9ifFuKTR9LpgtpqT6xG2KsyHGY20w/biRl2MACJPVCvsdD7XIxmsDHiN8wjIIwLGMCa+mtkDW9KLgxNbr6e6HWwKYNo1RMmOYRxTG/TK1Kx34BpnH9D8nJPpk7AdTPgdonAfEL49eZ5JUwD2gzXCitew3M+oVuUnscAh8OvrgzNtcbnHIkKjC+XKMgQS4EJgr+m/1oD7LzzPjWLJfbxQA470SxHeLZlVdZLBD4LgEdhBePJHC4MgYGxs1PiNg9HDPhM7/ZJy8wUNGIhuCrYmN25jHv6KHQbRDDlIEGYhgE7AmqvjP4nLuVSrgkGHi+W3TPPWb52KvG67CYpU+ari+bTNwrwKqftKSxeKfBvDUbbwRnjVJR3g3ZZMNGJUcu/eN8tnxxxlmsjgIT4ezWM6ZLQtvlzb3FTkm27Ub0lMFkq57kaAnLMgJgBYpUAy6mBPTHlQ1nqZBzXVpnILF8pBEq3CUDJXSI=\",value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE5NzA4NSwKICAicHJvZmlsZUlkIiA6ICI5ODY5ZmUyY2FjMjA0YmJmYjc1Y2Y1Mjk2ZTY0MDQ5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW5yaXF1ZTkzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxOGMwNzFmMDgwZGJhNTBhNjJhNjI2M2ZmNzI0ZWRjMTU3Y2U0ZmI0ODgzY2NlZmYyNDkxZDViYmRlODMwYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:player_head\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 41.32
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §cCrypt Dreadlord§r §a1.3M§c❤",
+   "pos": [
+    15.5,
+    69,
+    48.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 47.61
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§5 §8Fortified Fels§r §71.5M§c❤",
+   "pos": [
+    37.5,
+    81,
+    54.5
+   ],
+   "yaw": 0,
+   "invisible": true,
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 32.81
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cZombie Knight§r §a1.9M§c❤",
+   "pos": [
+    34.5,
+    69,
+    38.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 46.66
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §3Speedy Crypt Dreadlord§r §b1.3M§c❤",
+   "pos": [
+    30.5,
+    79,
+    8.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 77.32
+  },
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    5.5,
+    83,
+    16.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MjI2ODE3MDkxMSwKICAicHJvZmlsZUlkIiA6ICJkYTQ5OGFjNGU5Mzc0ZTVjYjYxMjdiMzgwODU1Nzk4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaXRyb2hvbGljXzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM5OWUwMGY0MDQ0MTFlNDY1ZDc0Mzg4ZGYxMzJkNTFmZTg2OGVjZjg2ZjFjMDczZmFmZmExZDkxNzJlYzBmMyIKICAgIH0KICB9Cn0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"SILENT_DEATH\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Silent Death\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/silent_death\",\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:iron_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"LEATHER_BOOTS\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Leather Boots\"},\"minecraft:dyed_color\":6029470,\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:leather_boots\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 80.35
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §1Stormy Crypt Dreadlord§r §91.3M§c❤",
+   "pos": [
+    25.5,
+    69,
+    31.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 56.37
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 Healing Zombie Knight§r §a1.3M§c❤",
+   "pos": [
+    27.5,
+    90,
+    53.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 41.78
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2§6 §cCrypt Lurker§r §a630k§c❤",
+   "pos": [
+    33.5,
+    79,
+    11.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bone\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 73.77
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §cCrypt Dreadlord§r §a840k§c❤",
+   "pos": [
+    55.5,
+    79,
+    49.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 35.8
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cSuper Tank Zombie§r §a135k§c❤",
+   "pos": [
+    25.5,
+    69,
+    28.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/earth_shard\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:stone_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 59.13
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2 §5Zombie Knight§r §d7.7M§c❤",
+   "pos": [
+    51.5,
+    70,
+    21.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:fishing_rod\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 61.69
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §2Healthy Super Archer§r §a3.8M§c❤",
+   "pos": [
+    11.5,
+    69,
+    50.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055,\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 49.09
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2 §cZombie Commander§r §a3.5M§c❤",
+   "pos": [
+    31.5,
+    90,
+    49.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:fishing_rod\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 43
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 Healthy Super Tank Zombie§r §a216k§c❤",
+   "pos": [
+    18.5,
+    70,
+    16.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/earth_shard\",\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:stone_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":5923940,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 72.93
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §2Healthy Crypt Souleater§r §a1.9M§c❤",
+   "pos": [
+    31.5,
+    69,
+    13.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 71.57
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2§6 §cCrypt Lurker§r §a630k§c❤",
+   "pos": [
+    55.5,
+    79,
+    34.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bone\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 50.15
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §2Healthy Crypt Souleater§r §a1.3M§c❤",
+   "pos": [
+    34.5,
+    71,
+    53.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 32.68
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§5 §cFels§r §a2.2M§c❤",
+   "pos": [
+    10.5,
+    69,
+    43.5
+   ],
+   "yaw": 0,
+   "invisible": true,
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 54.68
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §3Speedy Zombie Soldier§r §b1.8M§c❤",
+   "pos": [
+    35.5,
+    69,
+    27.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CUTLASS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Zombie Soldier Cutlass\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass\",\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:iron_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Boots\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Leggings\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Chestplate\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Helmet\"},\"minecraft:dyed_color\":13664000,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 57.03
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§5 §cFels§r §a2.2M§c❤",
+   "pos": [
+    35.5,
+    69,
+    28.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 56.06
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§f §2Healthy Super Archer§r §a3.8M§c❤",
+   "pos": [
+    12.5,
+    69,
+    47.5
+   ],
+   "yaw": 0,
+   "invisible": true,
+   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MjI2ODE3MDkxMSwKICAicHJvZmlsZUlkIiA6ICJkYTQ5OGFjNGU5Mzc0ZTVjYjYxMjdiMzgwODU1Nzk4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaXRyb2hvbGljXzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM5OWUwMGY0MDQ0MTFlNDY1ZDc0Mzg4ZGYxMzJkNTFmZTg2OGVjZjg2ZjFjMDczZmFmZmExZDkxNzJlYzBmMyIKICAgIH0KICB9Cn0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"SILENT_DEATH\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Silent Death\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/silent_death\",\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:iron_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"LEATHER_BOOTS\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Leather Boots\"},\"minecraft:dyed_color\":6029470,\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:leather_boots\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 50.42
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §cSkeleton Soldier§r §a1.1M§c❤",
+   "pos": [
+    29.5,
+    69,
+    16.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 69.18
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2§6 §cCrypt Lurker§r §a630k§c❤",
+   "pos": [
+    17.5,
+    70,
+    13.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bone\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 76.08
+  },
+  {
+   "type": "minecraft:wither_skeleton",
+   "name": "§8§f§5 §cWithermancer§r §a1.2M§c❤",
+   "pos": [
+    31.5,
+    90,
+    52.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{count:1,id:\"minecraft:stone_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 40.7
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§8§6 §cCrypt Dreadlord§r §a1.3M§c❤",
+   "pos": [
+    33.5,
+    69,
+    13.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 71.13
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§f §cSkeleton Soldier§r §a1.1M§c❤",
+   "pos": [
+    30.5,
+    79,
+    31.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819,\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:leather_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 55.46
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2 §cZombie Knight§r §a1.9M§c❤",
+   "pos": [
+    32.5,
+    69,
+    37.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Boots\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_boots\"}",
+    "legs": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Leggings\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_leggings\"}",
+    "chest": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Chestplate\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_chestplate\"}",
+    "head": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_KNIGHT_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Knight Helmet\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:epic\"},count:1,id:\"minecraft:golden_helmet\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 48.23
+  },
+  {
+   "type": "minecraft:enderman",
+   "name": "§5 §cFels§r §a2.2M§c❤",
+   "pos": [
+    56.5,
+    79,
+    32.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 52.24
+  },
+  {
+   "type": "minecraft:zombie",
+   "name": "§2§6 §3Speedy Crypt Lurker§r §b420k§c❤",
+   "pos": [
+    57.5,
+    79,
+    49.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bone\"}"
+   },
+   "seenAfterEnteringMs": -4901,
+   "playerDistance": 36.26
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§8[§7Lv173§8] §2§f §cUndead Skeleton§r §a360k§f/§a360k§c❤",
+   "pos": [
+    14.5,
+    71.64,
+    45.5
+   ],
+   "yaw": 59.375,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": 4796,
+   "playerDistance": 9.08
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§8[§7Lv173§8] §2§f §cUndead Skeleton§r §a360k§f/§a360k§c❤",
+   "pos": [
+    3.5,
+    84.64,
+    45.5
+   ],
+   "yaw": 59.375,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": 5049,
+   "playerDistance": 16.79
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§8[§7Lv277§8] §f §cSkeletor Prime§r §a3.1M§f/§a3.1M§c❤",
+   "pos": [
+    11.5,
+    70.21,
+    50.5
+   ],
+   "yaw": 59.375,
+   "invisible": false,
+   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMDc3NTY0NTk5OSwKICAicHJvZmlsZUlkIiA6ICJiZWNkZGIyOGEyYzg0OWI0YTliMDkyMmE1ODA1MTQyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdFR2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFiZDNhNGY4ZTIyZGIxNWU0ODZhY2FjNWQ0NTZmZjM1ZjM0ZWQ5YWI1YzY0ZWVjMDU3YWZkMjg2NmQ1NTk0MDEiCiAgICB9CiAgfQp9",
+   "equipment": {
+    "mainhand": "{count:1,id:\"minecraft:bone\"}"
+   },
+   "seenAfterEnteringMs": 7293,
+   "playerDistance": 18.53
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§8[§7Lv173§8] §2§f §cUndead Skeleton§r §a360k§f/§a360k§c❤",
+   "pos": [
+    8.5,
+    86.72,
+    56.5
+   ],
+   "yaw": 59.0625,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": 8306,
+   "playerDistance": 1.19
+  },
+  {
+   "type": "minecraft:skeleton",
+   "name": "§2§8§6 §8Fortified Crypt Souleater§r §71.2M§c❤",
+   "pos": [
+    19.5,
+    73.57,
+    26.5
+   ],
+   "yaw": 59.6875,
+   "invisible": false,
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bow\"}"
+   },
+   "seenAfterEnteringMs": 13053,
+   "playerDistance": 29.17
+  }
+ ],
+ "keys": []
+}

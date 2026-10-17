@@ -1,0 +1,27 @@
+{
+ "room": "cell-1",
+ "name": "Cell",
+ "shape": "1x1",
+ "facing": "NW",
+ "recordedAt": "2026-10-17T21:04:40.309863900Z",
+ "sessions": 1,
+ "mobs": [
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    9.5,
+    69,
+    15.5
+   ],
+   "yaw": 0,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"IRON_SWORD\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Iron Sword\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:iron_sword\"}"
+   },
+   "playerDistance": 31.54
+  }
+ ],
+ "keys": []
+}

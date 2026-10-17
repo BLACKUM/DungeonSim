@@ -1,0 +1,552 @@
+{
+ "room": "mithril-cave-10",
+ "name": "Mines",
+ "shape": "2x2",
+ "levers": [
+  {
+   "at": [
+    52,
+    81,
+    9
+   ],
+   "secretName": "5 - Lever",
+   "recordings": 1,
+   "blocks": [
+    {
+     "pos": [
+      51,
+      80,
+      8
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+    },
+    {
+     "pos": [
+      51,
+      80,
+      9
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      51,
+      80,
+      10
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]"
+    },
+    {
+     "pos": [
+      51,
+      81,
+      10
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      52,
+      81,
+      10
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      53,
+      81,
+      10
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      53,
+      81,
+      9
+     ],
+     "from": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+    },
+    {
+     "pos": [
+      53,
+      81,
+      8
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      53,
+      80,
+      8
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      54,
+      80,
+      8
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]"
+    },
+    {
+     "pos": [
+      54,
+      80,
+      9
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      54,
+      80,
+      10
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]"
+    },
+    {
+     "pos": [
+      52,
+      81,
+      8
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      54,
+      81,
+      8
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      53,
+      80,
+      9
+     ],
+     "from": "minecraft:red_wool"
+    },
+    {
+     "pos": [
+      54,
+      81,
+      9
+     ],
+     "from": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+    },
+    {
+     "pos": [
+      53,
+      80,
+      10
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      54,
+      81,
+      10
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      52,
+      80,
+      10
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      51,
+      81,
+      9
+     ],
+     "from": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+    },
+    {
+     "pos": [
+      51,
+      81,
+      8
+     ],
+     "from": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+     "pos": [
+      52,
+      80,
+      8
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+    }
+   ]
+  },
+  {
+   "at": [
+    52,
+    79,
+    9
+   ],
+   "secretName": "5 - Lever",
+   "recordings": 1,
+   "blocks": [
+    {
+     "pos": [
+      46,
+      80,
+      10
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      80,
+      11
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      80,
+      12
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      80,
+      13
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      80,
+      14
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      81,
+      14
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      82,
+      14
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      82,
+      13
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      82,
+      12
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      82,
+      11
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      82,
+      10
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      83,
+      10
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      83,
+      11
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      83,
+      12
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      83,
+      13
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      83,
+      14
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      81,
+      13
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      81,
+      12
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      81,
+      11
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      46,
+      81,
+      10
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    }
+   ]
+  },
+  {
+   "at": [
+    34,
+    79,
+    59
+   ],
+   "secretName": "2 - Lever",
+   "recordings": 1,
+   "blocks": [
+    {
+     "pos": [
+      49,
+      78,
+      57
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      78,
+      58
+     ],
+     "from": "minecraft:dark_oak_planks"
+    },
+    {
+     "pos": [
+      49,
+      78,
+      59
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      79,
+      59
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      80,
+      59
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      80,
+      58
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      49,
+      80,
+      57
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      81,
+      57
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      82,
+      57
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      82,
+      58
+     ],
+     "from": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      49,
+      82,
+      59
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      83,
+      59
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      84,
+      59
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      84,
+      58
+     ],
+     "from": "minecraft:dark_oak_planks"
+    },
+    {
+     "pos": [
+      49,
+      84,
+      57
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      83,
+      58
+     ],
+     "from": "minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      49,
+      83,
+      57
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      49,
+      81,
+      58
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      49,
+      81,
+      59
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      48,
+      80,
+      59
+     ],
+     "from": "minecraft:tripwire_hook[attached=false,facing=west,powered=false]"
+    },
+    {
+     "pos": [
+      49,
+      79,
+      58
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      49,
+      79,
+      57
+     ],
+     "from": "minecraft:dark_oak_log[axis=y]"
+    }
+   ]
+  }
+ ]
+}

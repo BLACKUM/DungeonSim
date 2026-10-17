@@ -1,0 +1,394 @@
+{
+ "room": "museum-5",
+ "name": "Museum",
+ "shape": "2x2",
+ "levers": [
+  {
+   "at": [
+    26,
+    84,
+    9
+   ],
+   "secretName": "1 - Lever",
+   "recordings": 1,
+   "blocks": [
+    {
+     "pos": [
+      29,
+      69,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      29,
+      70,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      29,
+      71,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      29,
+      72,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      29,
+      73,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      29,
+      74,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      29,
+      75,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      29,
+      76,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      29,
+      77,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      30,
+      77,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      77,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      76,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      75,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      74,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      73,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      72,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      71,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      70,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      69,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      32,
+      69,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      33,
+      69,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      33,
+      70,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      33,
+      71,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      33,
+      72,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      33,
+      73,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      33,
+      74,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      33,
+      75,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      33,
+      76,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      33,
+      77,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      32,
+      70,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      32,
+      71,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      32,
+      72,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      32,
+      73,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      32,
+      74,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      32,
+      75,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      32,
+      76,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      32,
+      77,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      30,
+      76,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      30,
+      75,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      30,
+      74,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      30,
+      73,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      30,
+      72,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      30,
+      71,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      30,
+      70,
+      15
+     ],
+     "from": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      30,
+      69,
+      15
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      80,
+      10
+     ],
+     "from": "minecraft:oak_wood[axis=y]"
+    },
+    {
+     "pos": [
+      31,
+      81,
+      10
+     ],
+     "from": "minecraft:andesite"
+    }
+   ]
+  }
+ ]
+}

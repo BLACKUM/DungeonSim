@@ -1,0 +1,210 @@
+{
+ "room": "atlas-6",
+ "name": "Atlas",
+ "shape": "2x2",
+ "levers": [
+  {
+   "at": [
+    60,
+    90,
+    33
+   ],
+   "secretName": "2 - Lever",
+   "recordings": 1,
+   "blocks": [
+    {
+     "pos": [
+      6,
+      80,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      6,
+      80,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      6,
+      81,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      6,
+      82,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      6,
+      82,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      6,
+      83,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      83,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      83,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      83,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      82,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      82,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      81,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      80,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      80,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      81,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      81,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      8,
+      83,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      82,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      6,
+      83,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      82,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      81,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      80,
+      25
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      6,
+      81,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      7,
+      80,
+      24
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    }
+   ]
+  }
+ ]
+}

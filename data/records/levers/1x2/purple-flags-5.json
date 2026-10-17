@@ -1,0 +1,138 @@
+{
+ "room": "purple-flags-5",
+ "name": "Purple Flags",
+ "shape": "1x2",
+ "levers": [
+  {
+   "at": [
+    35,
+    55,
+    29
+   ],
+   "secretName": "3 - Lever",
+   "recordings": 1,
+   "blocks": [
+    {
+     "pos": [
+      50,
+      49,
+      24
+     ],
+     "from": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      50,
+      49,
+      25
+     ],
+     "from": "minecraft:spruce_planks"
+    },
+    {
+     "pos": [
+      50,
+      49,
+      26
+     ],
+     "from": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      50,
+      50,
+      26
+     ],
+     "from": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      50,
+      51,
+      26
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      50,
+      51,
+      25
+     ],
+     "from": "minecraft:spruce_planks"
+    },
+    {
+     "pos": [
+      50,
+      51,
+      24
+     ],
+     "from": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+    },
+    {
+     "pos": [
+      50,
+      52,
+      24
+     ],
+     "from": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      50,
+      53,
+      24
+     ],
+     "from": "minecraft:spruce_planks"
+    },
+    {
+     "pos": [
+      50,
+      53,
+      25
+     ],
+     "from": "minecraft:spruce_planks"
+    },
+    {
+     "pos": [
+      50,
+      53,
+      26
+     ],
+     "from": "minecraft:spruce_planks"
+    },
+    {
+     "pos": [
+      50,
+      52,
+      25
+     ],
+     "from": "minecraft:spruce_planks"
+    },
+    {
+     "pos": [
+      50,
+      52,
+      26
+     ],
+     "from": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      50,
+      50,
+      25
+     ],
+     "from": "minecraft:spruce_planks"
+    },
+    {
+     "pos": [
+      50,
+      50,
+      24
+     ],
+     "from": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+    }
+   ]
+  }
+ ]
+}

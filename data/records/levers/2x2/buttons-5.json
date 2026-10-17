@@ -1,0 +1,322 @@
+{
+ "room": "buttons-5",
+ "name": "Buttons",
+ "shape": "2x2",
+ "levers": [
+  {
+   "at": [
+    42,
+    81,
+    57
+   ],
+   "secretName": "3 - Lever behind Crypt",
+   "recordings": 1,
+   "blocks": [
+    {
+     "pos": [
+      53,
+      68,
+      57
+     ],
+     "from": "minecraft:stone_bricks"
+    },
+    {
+     "pos": [
+      53,
+      69,
+      57
+     ],
+     "from": "minecraft:cyan_terracotta"
+    },
+    {
+     "pos": [
+      53,
+      70,
+      57
+     ],
+     "from": "minecraft:stone_bricks"
+    },
+    {
+     "pos": [
+      52,
+      70,
+      57
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      52,
+      69,
+      57
+     ],
+     "from": "minecraft:stone_bricks"
+    },
+    {
+     "pos": [
+      54,
+      68,
+      57
+     ],
+     "from": "minecraft:andesite"
+    },
+    {
+     "pos": [
+      55,
+      68,
+      57
+     ],
+     "from": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+    },
+    {
+     "pos": [
+      41,
+      75,
+      57
+     ],
+     "from": "minecraft:cobblestone"
+    },
+    {
+     "pos": [
+      41,
+      76,
+      57
+     ],
+     "from": "minecraft:stone"
+    },
+    {
+     "pos": [
+      41,
+      77,
+      57
+     ],
+     "from": "minecraft:stone"
+    },
+    {
+     "pos": [
+      41,
+      78,
+      57
+     ],
+     "from": "minecraft:stone"
+    },
+    {
+     "pos": [
+      41,
+      79,
+      57
+     ],
+     "from": "minecraft:stone_bricks"
+    },
+    {
+     "pos": [
+      42,
+      79,
+      57
+     ],
+     "from": "minecraft:stone"
+    },
+    {
+     "pos": [
+      42,
+      78,
+      57
+     ],
+     "from": "minecraft:stone"
+    },
+    {
+     "pos": [
+      55,
+      80,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      55,
+      81,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      55,
+      82,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      55,
+      83,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      55,
+      84,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      55,
+      85,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      55,
+      86,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      55,
+      87,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      87,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      87,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      86,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      85,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      84,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      83,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      82,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      81,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      57,
+      80,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      86,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      85,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      84,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      83,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      82,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      81,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    },
+    {
+     "pos": [
+      56,
+      80,
+      15
+     ],
+     "from": "minecraft:oak_log[axis=y]"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "room": "ritual-0",
+ "name": "Ritual",
+ "shape": "miniboss",
+ "facing": "SE",
+ "recordedAt": "2026-10-17T20:58:17.482564100Z",
+ "sessions": 1,
+ "mobs": [
+  {
+   "type": "minecraft:player",
+   "name": null,
+   "pos": [
+    14.5,
+    69,
+    10.5
+   ],
+   "yaw": -180,
+   "invisible": false,
+   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MjI2ODE3MDkxMSwKICAicHJvZmlsZUlkIiA6ICJkYTQ5OGFjNGU5Mzc0ZTVjYjYxMjdiMzgwODU1Nzk4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaXRyb2hvbGljXzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM5OWUwMGY0MDQ0MTFlNDY1ZDc0Mzg4ZGYxMzJkNTFmZTg2OGVjZjg2ZjFjMDczZmFmZmExZDkxNzJlYzBmMyIKICAgIH0KICB9Cn0=",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"SILENT_DEATH\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Silent Death\"},\"minecraft:item_model\":\"hypixel_skyblock:item/uncategorized/silent_death\",\"minecraft:tooltip_style\":\"hypixel_skyblock:rare\"},count:1,id:\"minecraft:iron_sword\"}",
+    "feet": "{components:{\"minecraft:custom_data\":{id:\"LEATHER_BOOTS\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Leather Boots\"},\"minecraft:dyed_color\":6029470,\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:leather_boots\"}"
+   },
+   "seenAfterEnteringMs": -13725,
+   "playerDistance": 48.88
+  }
+ ],
+ "keys": []
+}

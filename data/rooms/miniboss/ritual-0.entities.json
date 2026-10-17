@@ -1,0 +1,1 @@
+{"source":"dungeondata","name":"Shadow Assassin","entities":[{"type":"armor_stand","position":[16.371613169236355,71.39062414720051,1.49951586654646],"yaw":0,"is_invisible":true,"flags":12,"body":[0,0,1],"right_arm":[10,-90,71],"hand":{"item_id":272,"item_metadata":0},"roomTurns":2}]}

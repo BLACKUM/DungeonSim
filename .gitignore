@@ -1,0 +1,17 @@
+plugin/.gradle/
+plugin/build/
+plugin/run/
+mcp/
+data-cache/
+captures/
+data/rooms/unknown/
+*.skeleton
+*.env
+.env*
+*.schem
+*.rar
+*.zip
+logs/
+.idea/
+.vscode/
+*.iml

@@ -1,0 +1,75 @@
+{
+ "room": "trap-very-hard-3",
+ "name": "New Trap",
+ "shape": "trap",
+ "facing": "SW",
+ "recordedAt": "2026-10-17T20:58:17.452757500Z",
+ "sessions": 1,
+ "mobs": [
+  {
+   "type": "minecraft:silverfish",
+   "name": "§4 §3Speedy §8§lDeathmite§r §b1B§c❤",
+   "pos": [
+    26.5,
+    62,
+    19.5
+   ],
+   "yaw": 90,
+   "invisible": false,
+   "playerDistance": 47.97
+  },
+  {
+   "type": "minecraft:silverfish",
+   "name": "§4 §6Flaming §8§lDeathmite§r §e1B§c❤",
+   "pos": [
+    24.5,
+    62,
+    20.5
+   ],
+   "yaw": 90,
+   "invisible": false,
+   "playerDistance": 48.29
+  },
+  {
+   "type": "minecraft:silverfish",
+   "name": "§4 §3Speedy §8§lDeathmite§r §b1B§c❤",
+   "pos": [
+    26.5,
+    62,
+    21.5
+   ],
+   "yaw": 90,
+   "invisible": false,
+   "playerDistance": 49.84
+  },
+  {
+   "type": "minecraft:silverfish",
+   "name": "§4 §6Flaming §8§lDeathmite§r §e1B§c❤",
+   "pos": [
+    24.5,
+    62,
+    18.5
+   ],
+   "yaw": 90,
+   "invisible": false,
+   "playerDistance": 46.4
+  },
+  {
+   "type": "minecraft:player",
+   "name": "§2§6 §cCrypt Undead§r §a437k§c❤",
+   "pos": [
+    22.5,
+    65,
+    21.5
+   ],
+   "yaw": 90,
+   "invisible": false,
+   "skin": "eyJ0aW1lc3RhbXAiOjE1ODA0MTYwODE3OTAsInByb2ZpbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyZTJkMGVkMTRjMjM4NjI2NjZiNDA1YWVmYWJjNjVhNTdhMjcxZTg0MmZkYTVmNGQxOWU2YmMxMThjZTBjOTQifX19",
+   "equipment": {
+    "mainhand": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"},\"minecraft:tooltip_style\":\"hypixel_skyblock:common\"},count:1,id:\"minecraft:bone\"}"
+   },
+   "playerDistance": 34.72
+  }
+ ],
+ "keys": []
+}
