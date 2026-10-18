@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "dev.pawfect"
-version = "0.9.1"
+version = "1.5.0"
 
 repositories {
     mavenCentral()
@@ -35,7 +35,7 @@ tasks.processResources {
 }
 
 tasks.jar {
-    archiveFileName = "DungeonSim.jar"
+    archiveFileName = "Bloodcamp.jar"
 }
 
 paperweight.reobfArtifactConfiguration = io.papermc.paperweight.userdev.ReobfArtifactConfiguration.MOJANG_PRODUCTION
