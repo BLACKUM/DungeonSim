@@ -2,6 +2,8 @@ package dev.pawfect.bloodcamp.dungeon;
 
 import dev.pawfect.bloodcamp.dungeon.DungeonPlan.Secret;
 import dev.pawfect.bloodcamp.dungeon.DungeonPlan.SecretKind;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 import dev.pawfect.bloodcamp.gen.Rng;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -14,6 +16,7 @@ import java.util.Set;
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
 import net.kyori.adventure.text.format.TextDecoration;
+import net.kyori.adventure.text.serializer.legacy.LegacyComponentSerializer;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -34,6 +37,8 @@ import org.bukkit.entity.Bat;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Item;
 import org.bukkit.entity.Player;
+import org.bukkit.entity.Zombie;
+import org.bukkit.inventory.EquipmentSlot;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.PlayerInventory;
 import org.bukkit.inventory.meta.ItemMeta;
@@ -70,6 +75,9 @@ final class DungeonSecrets {
     private final Map<java.util.UUID, Long> lastBoom = new HashMap<>();
     private final Set<Integer> waitingBats = new HashSet<>();
     private final Map<Long, Broken> broken = new LinkedHashMap<>();
+    private java.util.UUID mimic;
+    private boolean mimicKilled;
+    private static JsonObject mimicData;
 
     private record Broken(BlockState state, long restoreAt) {}
 
@@ -126,6 +134,10 @@ final class DungeonSecrets {
         }
         entities.clear();
         waitingBats.clear();
+        Entity spawnedMimic = mimic == null ? null : Bukkit.getEntity(mimic);
+        if (spawnedMimic != null) spawnedMimic.remove();
+        mimic = null;
+        mimicKilled = false;
         for (Player p : world.getPlayers()) stripItems(p, false);
         spawnEntities();
     }
@@ -354,9 +366,55 @@ final class DungeonSecrets {
             player.sendMessage(Component.text("This chest has already been searched!", NamedTextColor.RED));
             return;
         }
+        markFound(index);
+        if (index == plan.mimic) {
+            remember(block);
+            block.setType(Material.AIR, false);
+            spawnMimic(block);
+            return;
+        }
         if (block.getState() instanceof Lidded chest) chest.open();
         world.playSound(block.getLocation().add(0.5, 0.5, 0.5), Sound.BLOCK_CHEST_OPEN, 0.6f, 1f);
-        markFound(index);
+    }
+
+    private void spawnMimic(Block chest) {
+        JsonObject data = mimicData(plugin);
+        Zombie zombie = world.spawn(chest.getLocation().add(0.5, 0, 0.5), Zombie.class, false, z -> {
+            z.setBaby();
+            z.setShouldBurnInDay(false);
+            z.setPersistent(true);
+            z.setRemoveWhenFarAway(false);
+            if (data.has("name")) {
+                z.customName(LegacyComponentSerializer.legacySection().deserialize(data.get("name").getAsString()));
+                z.setCustomNameVisible(true);
+            }
+            if (data.has("equipment") && z.getEquipment() != null) {
+                for (var slot : data.getAsJsonObject("equipment").entrySet()) {
+                    EquipmentSlot s = RoomViewer.SLOTS.get(slot.getKey());
+                    ItemStack item = RoomViewer.item(slot.getValue().getAsString());
+                    if (s == null || item == null) continue;
+                    z.getEquipment().setItem(s, item);
+                    z.getEquipment().setDropChance(s, 0f);
+                }
+            }
+        });
+        mimic = zombie.getUniqueId();
+    }
+
+    private static JsonObject mimicData(JavaPlugin plugin) {
+        if (mimicData != null) return mimicData;
+        try (java.io.InputStream in = plugin.getResource("mimic.json")) {
+            mimicData = in == null ? new JsonObject()
+                : JsonParser.parseReader(new java.io.InputStreamReader(in, java.nio.charset.StandardCharsets.UTF_8)).getAsJsonObject();
+        } catch (java.io.IOException | RuntimeException e) {
+            plugin.getLogger().warning("Couldn't read mimic.json: " + e.getMessage());
+            mimicData = new JsonObject();
+        }
+        return mimicData;
+    }
+
+    boolean mimicKilled() {
+        return mimicKilled;
     }
 
     private void rememberIfToggled(Block block) {
@@ -376,6 +434,11 @@ final class DungeonSecrets {
     }
 
     boolean onDeath(Entity entity) {
+        if (entity.getUniqueId().equals(mimic)) {
+            mimic = null;
+            mimicKilled = true;
+            return true;
+        }
         Integer index = entity.getPersistentDataContainer().get(tag, PersistentDataType.INTEGER);
         if (index == null || index < 0 || index >= found.length) return false;
         entities.remove(entity.getUniqueId());

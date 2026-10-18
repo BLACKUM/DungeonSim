@@ -28,7 +28,7 @@ let secrets = 0;
 for (const file of walk(dir)) {
   const room = basename(file, ".json");
   const json = JSON.parse(readFileSync(file, "utf8"));
-  const list = (json.secrets ?? []).map(s => ({ name: s.secretName, category: s.category, x: s.x, y: s.y, z: s.z }));
+  const list = (json.secrets ?? []).map(s => ({ name: s.secretName, category: s.category, x: s.x, y: s.y, z: s.z, itemChest: s.itemChest || undefined }));
   const suffix = room.replace(/-(high|low)$/, "").match(/-(\d+)$/);
   const count = suffix ? Number(suffix[1]) : list.filter(s => COUNTED.has(s.category)).length;
   rooms[room] = { count, secrets: list };

@@ -728,7 +728,8 @@ public final class DungeonManager implements Listener {
         }
         int secretsPct = d.secrets.totalAll() == 0 ? 100 : 100 * d.secrets.totalFound() / d.secrets.totalAll();
         int clearedPct = Math.min(100, 100 * d.map.clearedCount() / Math.max(1, d.map.clearable()));
-        for (Player p : d.world.getPlayers()) HypixelChat.end(d.seed.floor(), clearedPct, secretsPct).forEach(p::sendMessage);
+        int bonus = d.secrets.mimicKilled() ? 1 : 0;
+        for (Player p : d.world.getPlayers()) HypixelChat.end(d.seed.floor(), clearedPct, secretsPct, bonus).forEach(p::sendMessage);
         lobby.refreshBoards();
     }
 

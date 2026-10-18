@@ -23,7 +23,7 @@ final class RoomLibrary {
 
     private static final java.util.regex.Pattern NAME = java.util.regex.Pattern.compile("\"name\"\\s*:\\s*\"([^\"]*)\"");
 
-    record Secret(String name, String category, int x, int y, int z) {}
+    record Secret(String name, String category, int x, int y, int z, boolean itemChest) {}
 
     record RoomSecrets(int count, List<Secret> secrets) {}
 
@@ -134,7 +134,8 @@ final class RoomLibrary {
                 for (var element : json.getAsJsonArray("secrets")) {
                     JsonObject s = element.getAsJsonObject();
                     list.add(new Secret(s.get("name").getAsString(), s.get("category").getAsString(),
-                        s.get("x").getAsInt(), s.get("y").getAsInt(), s.get("z").getAsInt()));
+                        s.get("x").getAsInt(), s.get("y").getAsInt(), s.get("z").getAsInt(),
+                        s.has("itemChest") && s.get("itemChest").getAsBoolean()));
                 }
                 out.put(room.getKey(), new RoomSecrets(json.get("count").getAsInt(), List.copyOf(list)));
             }
