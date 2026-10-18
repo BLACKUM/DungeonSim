@@ -1,6 +1,6 @@
-name: DungeonSim
+name: Bloodcamp
 version: '${version}'
-main: dev.pawfect.dungeonsim.DungeonSimPlugin
+main: dev.pawfect.bloodcamp.BloodcampPlugin
 api-version: '26.2'
-description: Private dungeon room practice server
+description: Bloodcamp, dungeon speedrun practice
 author: pawliciously

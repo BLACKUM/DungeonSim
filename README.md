@@ -1,7 +1,7 @@
-# DungeonSim
+# Bloodcamp
 
-A Hypixel SkyBlock dungeon practice server. Generates F7 and M7 maps from shareable seeds and builds them with real room blocks, secrets, doors and items.
+A Hypixel SkyBlock dungeon speedrun practice server. Generates F7 maps from short shareable seeds (plus a daily seed) and builds them with real room blocks, secrets, doors, puzzles and items. Clears go on a per-seed and season leaderboard.
 
 The room data in `data/` is meant for anyone building dungeon mods.
 
-SERVER IP: Soon
+SERVER IP: bloodcamp.net
