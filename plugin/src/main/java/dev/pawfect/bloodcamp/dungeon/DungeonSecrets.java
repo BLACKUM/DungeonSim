@@ -80,6 +80,7 @@ final class DungeonSecrets {
     private record Broken(BlockState state, long restoreAt) {}
 
     private static final double BAT_SPAWN_RANGE = 12.0;
+    private static final int MIMIC_SPEED = 500;
     static final long BREAK_RESTORE_MS = 10_000;
 
     DungeonSecrets(JavaPlugin plugin, World world, DungeonPlan plan, RoomLibrary.Mimic mimicLook) {
@@ -379,6 +380,9 @@ final class DungeonSecrets {
     private void spawnMimic(Block chest) {
         Zombie zombie = world.spawn(chest.getLocation().add(0.5, 0, 0.5), Zombie.class, false, z -> {
             z.setBaby();
+            AttributeInstance speed = z.getAttribute(Attribute.MOVEMENT_SPEED);
+            if (speed != null) speed.removeModifier(NamespacedKey.minecraft("baby"));
+            Speed.applyToMob(z, MIMIC_SPEED);
             z.setShouldBurnInDay(false);
             z.setPersistent(true);
             z.setRemoveWhenFarAway(false);
