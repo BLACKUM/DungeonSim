@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, statSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync, statSync, writeFileSync } from "node:fs";
 import { basename, join } from "node:path";
 import { gzipSync } from "node:zlib";
 
@@ -12,13 +12,14 @@ if (!dir || (outAt >= 0 && !out)) {
 }
 
 const COUNTED = new Set(["chest", "item", "bat", "wither"]);
+const NOT_ROOMS = new Set(["floorskulls.json", "mimic.json"]);
 
 function walk(d) {
   const out = [];
   for (const name of readdirSync(d)) {
     const full = join(d, name);
     if (statSync(full).isDirectory()) out.push(...walk(full));
-    else if (name.endsWith(".json") && name !== "floorskulls.json") out.push(full);
+    else if (name.endsWith(".json") && !NOT_ROOMS.has(name)) out.push(full);
   }
   return out;
 }
@@ -35,12 +36,14 @@ for (const file of walk(dir)) {
   secrets += list.length;
 }
 
-const raw = Buffer.from(JSON.stringify({ rooms }));
+const mimicFile = join(dir, "mimic.json");
+const mimic = existsSync(mimicFile) ? JSON.parse(readFileSync(mimicFile, "utf8")) : undefined;
+const raw = Buffer.from(JSON.stringify({ rooms, mimic }));
 if (out) {
   writeFileSync(out, raw);
-  console.log(`Wrote ${out}: ${Object.keys(rooms).length} rooms, ${secrets} spots.`);
+  console.log(`Wrote ${out}: ${Object.keys(rooms).length} rooms, ${secrets} spots${mimic ? ", mimic" : ""}.`);
   process.exit(0);
 }
 const { call } = await import("./bridge.mjs");
 await call("/files/put", { path: "secrets.json", gzip: gzipSync(raw).toString("base64") });
-console.log(`Uploaded secrets.json: ${Object.keys(rooms).length} rooms, ${secrets} spots. Run /ds reload on the server.`);
+console.log(`Uploaded secrets.json: ${Object.keys(rooms).length} rooms, ${secrets} spots${mimic ? ", mimic" : ""}. Run /ds reload on the server.`);

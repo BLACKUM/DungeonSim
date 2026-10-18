@@ -2,8 +2,6 @@ package dev.pawfect.bloodcamp.dungeon;
 
 import dev.pawfect.bloodcamp.dungeon.DungeonPlan.Secret;
 import dev.pawfect.bloodcamp.dungeon.DungeonPlan.SecretKind;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
 import dev.pawfect.bloodcamp.gen.Rng;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -77,17 +75,18 @@ final class DungeonSecrets {
     private final Map<Long, Broken> broken = new LinkedHashMap<>();
     private java.util.UUID mimic;
     private boolean mimicKilled;
-    private static JsonObject mimicData;
+    private final RoomLibrary.Mimic mimicLook;
 
     private record Broken(BlockState state, long restoreAt) {}
 
     private static final double BAT_SPAWN_RANGE = 12.0;
     static final long BREAK_RESTORE_MS = 10_000;
 
-    DungeonSecrets(JavaPlugin plugin, World world, DungeonPlan plan) {
+    DungeonSecrets(JavaPlugin plugin, World world, DungeonPlan plan, RoomLibrary.Mimic mimicLook) {
         this.plugin = plugin;
         this.world = world;
         this.plan = plan;
+        this.mimicLook = mimicLook;
         this.tag = new NamespacedKey(plugin, "secret");
         this.found = new boolean[plan.secrets.size()];
         this.foundIn = new int[plan.placements.size()];
@@ -378,39 +377,26 @@ final class DungeonSecrets {
     }
 
     private void spawnMimic(Block chest) {
-        JsonObject data = mimicData(plugin);
         Zombie zombie = world.spawn(chest.getLocation().add(0.5, 0, 0.5), Zombie.class, false, z -> {
             z.setBaby();
             z.setShouldBurnInDay(false);
             z.setPersistent(true);
             z.setRemoveWhenFarAway(false);
-            if (data.has("name")) {
-                z.customName(LegacyComponentSerializer.legacySection().deserialize(data.get("name").getAsString()));
+            if (mimicLook == null) return;
+            if (mimicLook.name() != null) {
+                z.customName(LegacyComponentSerializer.legacySection().deserialize(mimicLook.name()));
                 z.setCustomNameVisible(true);
             }
-            if (data.has("equipment") && z.getEquipment() != null) {
-                for (var slot : data.getAsJsonObject("equipment").entrySet()) {
-                    EquipmentSlot s = RoomViewer.SLOTS.get(slot.getKey());
-                    ItemStack item = RoomViewer.item(slot.getValue().getAsString());
-                    if (s == null || item == null) continue;
-                    z.getEquipment().setItem(s, item);
-                    z.getEquipment().setDropChance(s, 0f);
-                }
-            }
+            if (z.getEquipment() == null) return;
+            mimicLook.equipment().forEach((slot, snbt) -> {
+                EquipmentSlot s = RoomViewer.SLOTS.get(slot);
+                ItemStack item = RoomViewer.item(snbt);
+                if (s == null || item == null) return;
+                z.getEquipment().setItem(s, item);
+                z.getEquipment().setDropChance(s, 0f);
+            });
         });
         mimic = zombie.getUniqueId();
-    }
-
-    private static JsonObject mimicData(JavaPlugin plugin) {
-        if (mimicData != null) return mimicData;
-        try (java.io.InputStream in = plugin.getResource("mimic.json")) {
-            mimicData = in == null ? new JsonObject()
-                : JsonParser.parseReader(new java.io.InputStreamReader(in, java.nio.charset.StandardCharsets.UTF_8)).getAsJsonObject();
-        } catch (java.io.IOException | RuntimeException e) {
-            plugin.getLogger().warning("Couldn't read mimic.json: " + e.getMessage());
-            mimicData = new JsonObject();
-        }
-        return mimicData;
     }
 
     boolean mimicKilled() {
